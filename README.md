@@ -1,7 +1,7 @@
 ### Merhaba 👋, Ben Mertcan YAMAN
 Sakarya Üniversitesinde 3. sınıf bilgisayar mühendisliği okuyorum. Web geliştirme üzerine çalışmalarım devam ediyor.
 
-Skills: C# / PYTHON / HTML / CSS
+Skills: C# / PYTHON / HTML / CSS / Java
 
 - 📫 How to reach me: mert1437@gmail.com 
 
