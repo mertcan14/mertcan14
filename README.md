@@ -1,7 +1,7 @@
 ### Merhaba 👋, Ben Mertcan YAMAN
-Sakarya Üniversitesinde 4. sınıf bilgisayar mühendisliği okuyorum. Web geliştirme üzerine çalışmalarım devam ediyor.
+Sakarya Üniversitesinde bilgisayar mühendisliği mezunuyum. Web ve mobil alanda kendimi geliştirmeye devam ediyorum.
 
-Skills: C# / PYTHON / HTML / CSS / Java
+Skills: .Net / Swift / Angular / Flutter
 
 - 📫 How to reach me: mert1437@gmail.com 
 
