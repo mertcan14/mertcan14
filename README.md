@@ -1,7 +1,7 @@
 ### Merhaba 👋, Ben Mertcan YAMAN
 Sakarya Üniversitesinde bilgisayar mühendisliği mezunuyum. Web ve mobil alanda kendimi geliştirmeye devam ediyorum.
 
-Skills: .Net / Swift / Angular / Flutter
+Skills: Swift / Flutter / Angular / .Net
 
 - 📫 How to reach me: mert1437@gmail.com 
 
