@@ -1,5 +1,5 @@
 ### Merhaba 👋, Ben Mertcan YAMAN
-Sakarya Üniversitesinde bilgisayar mühendisliği mezunuyum. Web ve mobil alanda kendimi geliştirmeye devam ediyorum.
+Sakarya Üniversitesinde bilgisayar mühendisliği mezunuyum. iOS developer alanında kendimi geliştirmeye devam ediyorum.
 
 Skills: Swift / Flutter / Angular / .Net
 
